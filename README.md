@@ -1,4 +1,4 @@
-# Fundamentals-of-Software-Engineering-Project
+# Principles-of-Software-Engineering-Project
 
 Group Members:
   Yunus Emre Yılmaz
