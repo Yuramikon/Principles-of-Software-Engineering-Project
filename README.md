@@ -22,7 +22,7 @@ The gameplay emphasizes distance control, timing, and dash based movement.
 - **Engine:** Godot (GDScript)  
 - **Win Condition:** Deplete your opponent’s HP to zero  
 - **Timer System:** Each round has a set time limit. If time runs out, the player with more HP wins  
-- 
+- **Playable Characters:** 3–4 unique fighters. 
 
 ---
 
