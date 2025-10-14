@@ -6,7 +6,7 @@ Group Members:
   
   -Oğuzhan Çelik
   
-  -Tuana Öykü Yıldız
+  -Tuğana Öykü Yıldız
 
 
 # 2D Sword & Shield Fighting Game
